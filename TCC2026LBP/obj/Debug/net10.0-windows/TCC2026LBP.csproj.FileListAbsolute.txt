@@ -1,0 +1,462 @@
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\ArquivosWindow.g.cs
+C:\Users\user\Desktop\TCC2026LBP\TCC2026LBP\obj\Debug\net10.0-windows\ArquivosWindow.baml
+E:\TCC2026LBP-Front\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+E:\TCC2026LBP-Front\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+E:\TCC2026LBP-Front\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+E:\TCC2026LBP-Front\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+E:\TCC2026LBP-Front\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\ArquivosWindow.g.cs
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\ArquivosWindow.baml
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll
+E:\TCC2026LBP-Front\TCC2026LBP\bin\Debug\net10.0-windows\SixLabors.ImageSharp.dll
+E:\TCC2026LBP-Front\TCC2026LBP\bin\Debug\net10.0-windows\System.IO.Hashing.dll
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.AssemblyReference.cache
+E:\TCC2026LBP-Front\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.Up2Date
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SixLabors.ImageSharp.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\System.IO.Hashing.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.AssemblyReference.cache
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.Up2Date
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Google.Protobuf.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\MySql.Data.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\MySqlConnector.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\ZstdSharp.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.baml
+E:\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.g.cs
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SixLabors.ImageSharp.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\System.IO.Hashing.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.AssemblyReference.cache
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.baml
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.g.cs
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.Up2Date
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+C:\Users\theod\Downloads\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Google.Protobuf.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\MySql.Data.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\MySqlConnector.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SixLabors.ImageSharp.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\System.IO.Hashing.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\ZstdSharp.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.AssemblyReference.cache
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.baml
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.g.cs
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.Up2Date
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+D:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Google.Protobuf.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\MySql.Data.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\MySqlConnector.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SixLabors.ImageSharp.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\System.IO.Hashing.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\ZstdSharp.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.AssemblyReference.cache
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.baml
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.g.cs
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.Up2Date
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+E:\TCC2026LBP-Front - Copia (2)\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.AssemblyReference.cache
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.baml
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.g.cs
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.Up2Date
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+E:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.AssemblyReference.cache
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.baml
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.g.cs
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.Up2Date
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+D:\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.AssemblyReference.cache
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.baml
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.g.cs
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.Up2Date
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+C:\TCC\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.baml
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.g.cs
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.Up2Date
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP-Front - Copia (3) - Copia\TCC2026LBP-Front - Copia (2) - Copia\TCC2026LBP-Front - Copia\TCC2026LBP-Front - Copia\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.exe
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.deps.json
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.runtimeconfig.json
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\TCC2026LBP.pdb
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.baml
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\SelecionarAnaliseWindow.g.cs
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.cache
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP_MarkupCompile.lref
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.g.resources
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.AssemblyInfo.cs
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.csproj.Up2Date
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\refint\TCC2026LBP.dll
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.pdb
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\TCC2026LBP.genruntimeconfig.cache
+C:\Users\user\Downloads\TCC-PRONTO\TCC2026LBP\obj\Debug\net10.0-windows\ref\TCC2026LBP.dll

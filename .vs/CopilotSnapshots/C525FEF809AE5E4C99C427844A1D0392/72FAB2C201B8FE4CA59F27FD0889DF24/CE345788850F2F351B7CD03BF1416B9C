@@ -1,0 +1,39 @@
+﻿<Window x:Class="TCC2026LBP.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TCC2026LBP"
+        mc:Ignorable="d"
+        Title="Window1" Height="87" Width="45"
+        WindowStyle="SingleBorderWindow">
+
+    <Border BorderBrush="#000000"
+            BorderThickness="0.5">
+
+        <Grid Height="101" VerticalAlignment="Top">
+            <Button x:Name="ButtonAbrir" Content="Abrir"
+                    FontSize="6"
+                    BorderThickness="0.3"
+                    Padding="5,2" Click="Button_Click_1" Height="14" VerticalAlignment="Top"/>
+            <Button x:Name="ButtonSalvar" Content="Salvar"
+                    FontSize="6"
+                    BorderThickness="0.3"
+                    Padding="5,2" Click="Button_Click_1" Height="14" VerticalAlignment="Top" Margin="0,14,0,0"/>
+            <Button x:Name="ButtonNovaGuia" Content="Nova Guia"
+                    FontSize="6"
+                    BorderThickness="0.3"
+                    Padding="5,2" Click="Button_Click_1" Height="14" VerticalAlignment="Top" Margin="0,28,0,0"/>
+            <Button x:Name="ButtonFechar" Content="Fechar"
+                    FontSize="6"
+                    BorderThickness="0.3"
+                    Padding="5,2" Click="Button_Click_1" Height="14" VerticalAlignment="Top" Margin="0,42,0,0"/>
+            <Button x:Name="ButtonSair" Content="Sair"
+                    FontSize="6"
+                    BorderThickness="0.3"
+                    Padding="5,2" Click="Button_Click_1" Height="14" VerticalAlignment="Top" Margin="0,56,0,0"/>
+        </Grid>
+
+    </Border>
+
+</Window>

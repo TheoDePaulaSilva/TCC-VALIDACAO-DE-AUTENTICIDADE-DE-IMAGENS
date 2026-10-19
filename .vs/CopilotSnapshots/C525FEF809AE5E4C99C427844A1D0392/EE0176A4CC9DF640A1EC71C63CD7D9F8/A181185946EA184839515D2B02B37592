@@ -1,0 +1,51 @@
+﻿using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+using Microsoft.Win32;
+
+namespace TCC2026LBP
+{
+ 
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+
+        private void ButtonAbrir_Click(object sender, RoutedEventArgs e)
+        {
+            AbrirArquivos();
+        }
+        public void AbrirArquivos()
+        {
+            ArquivosWindow tela = new ArquivosWindow();
+            tela.Left = 2;
+            tela.Top = 50;
+            tela.Show();
+        }
+        public void AdicionarImagem(string caminho)
+        {
+            TabItem novaGuia = new TabItem();
+
+            novaGuia.Header = System.IO.Path.GetFileName(caminho);
+
+            Image img = new Image();
+            img.Source = new BitmapImage(new Uri(caminho));
+            img.Stretch = Stretch.Uniform;
+
+            novaGuia.Content = img;
+
+            GuiasImagens.Items.Add(novaGuia);
+            GuiasImagens.SelectedItem = novaGuia;
+        }
+    }
+}

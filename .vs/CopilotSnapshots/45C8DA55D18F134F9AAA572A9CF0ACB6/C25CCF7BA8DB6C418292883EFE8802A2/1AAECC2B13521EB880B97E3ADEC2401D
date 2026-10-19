@@ -1,0 +1,360 @@
+﻿using Microsoft.Win32;
+using System.IO;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
+
+namespace TCC2026LBP
+{
+    public partial class MainWindow : Window
+    {
+        private bool _menuAberto = true;
+        private string _ultimoNomeArquivo;
+        private AnaliseLBP.ResultadoAnalise _ultimaAnalise;
+
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+        // ==========================================================
+        // MENU LATERAL
+        // ==========================================================
+        private void ButtonMenu_Click(object sender, RoutedEventArgs e)
+        {
+            _menuAberto = !_menuAberto;
+            ColunaMenu.Width = _menuAberto ? new GridLength(220) : new GridLength(0);
+        }
+
+        // ==========================================================
+        // AÇÕES DO MENU
+        // ==========================================================
+        private void ButtonAbrirImagem_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog dialog = new OpenFileDialog
+            {
+                Filter = "Imagens|*.jpg;*.jpeg;*.png;*.bmp",
+                Title = "Selecione uma imagem"
+            };
+
+            if (dialog.ShowDialog() == true)
+            {
+                var resultado = AnaliseLBP.Analisar(dialog.FileName);
+                MostrarImagem(resultado.bitmapOriginal, resultado.PercentualAutenticidade, resultado.HistogramaNormalizado);
+
+                _ultimoNomeArquivo = System.IO.Path.GetFileName(dialog.FileName);
+                _ultimaAnalise = resultado;
+            }
+        }
+
+        private void ButtonCadastrarBanco_Click(object sender, RoutedEventArgs e)
+        {
+            if (_ultimaAnalise == null)
+            {
+                MessageBox.Show("Abra uma imagem primeiro — não há nenhuma análise pendente para cadastrar.",
+                    "Cadastrar no Banco", MessageBoxButton.OK, MessageBoxImage.Information);
+                return;
+            }
+
+            RepositorioAnalises.Salvar(_ultimoNomeArquivo, _ultimaAnalise.bitmapOriginal,
+                _ultimaAnalise.PercentualAutenticidade, _ultimaAnalise.HistogramaNormalizado);
+
+            MessageBox.Show($"'{_ultimoNomeArquivo}' cadastrado no banco com sucesso.",
+                "Cadastrar no Banco", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+
+        private void ButtonCarregarBanco_Click(object sender, RoutedEventArgs e)
+        {
+            var janela = new SelecionarAnaliseWindow { Owner = this };
+
+            if (janela.ShowDialog() == true && janela.IdSelecionado.HasValue)
+            {
+                var resultado = RepositorioAnalises.Carregar(janela.IdSelecionado.Value);
+                if (resultado != null)
+                {
+                    MostrarImagem(resultado.bitmapOriginal, resultado.PercentualAutenticidade, resultado.HistogramaNormalizado);
+                    _ultimaAnalise = resultado;
+                }
+                else
+                {
+                    MessageBox.Show("Não foi possível carregar essa análise.", "Erro",
+                        MessageBoxButton.OK, MessageBoxImage.Warning);
+                }
+            }
+        }
+
+        private void ButtonSalvarImagem_Click(object sender, RoutedEventArgs e)
+        {
+            if (_ultimaAnalise == null)
+            {
+                MessageBox.Show("Nenhuma imagem analisada para salvar.", "Salvar",
+                    MessageBoxButton.OK, MessageBoxImage.Information);
+                return;
+            }
+
+            SaveFileDialog dialog = new SaveFileDialog
+            {
+                Filter = "Imagem PNG (*.png)|*.png",
+                FileName = "imagem_analisada.png",
+                Title = "Salvar imagem analisada"
+            };
+
+            if (dialog.ShowDialog() == true)
+            {
+                PngBitmapEncoder encoder = new PngBitmapEncoder();
+                encoder.Frames.Add(BitmapFrame.Create(_ultimaAnalise.bitmapOriginal));
+
+                using (FileStream stream = new FileStream(dialog.FileName, FileMode.Create))
+                {
+                    encoder.Save(stream);
+                }
+            }
+        }
+
+        private void ButtonSair_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
+
+        // ==========================================================
+        // EXIBIÇÃO DO RESULTADO (sem alterações de lógica em relação ao que já tínhamos)
+        // ==========================================================
+        public void MostrarImagem(WriteableBitmap bitmapOriginal, string percentualAutenticidade, double[] histogramaNormalizado)
+        {
+            if (!(MeuTabControl.SelectedItem is TabItem guia))
+            {
+                guia = new TabItem { Header = $"Guia {MeuTabControl.Items.Count + 1}" };
+                MeuTabControl.Items.Add(guia);
+                MeuTabControl.SelectedItem = guia;
+            }
+
+            Grid gridPrincipal = new Grid();
+            gridPrincipal.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
+            gridPrincipal.RowDefinitions.Add(new RowDefinition { Height = new GridLength(1, GridUnitType.Star) });
+
+            TextBlock texto = new TextBlock
+            {
+                Text = $"Porcentagem de ser real: {percentualAutenticidade}",
+                FontSize = 50,
+                FontWeight = FontWeights.Bold,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                Margin = new Thickness(0, 5, 0, 5)
+            };
+            Grid.SetRow(texto, 0);
+
+            Grid gridConteudo = new Grid();
+            gridConteudo.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
+            gridConteudo.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
+            Grid.SetRow(gridConteudo, 1);
+
+            Image img = new Image
+            {
+                Source = bitmapOriginal,
+                Stretch = Stretch.Uniform,
+                Margin = new Thickness(5)
+            };
+            Grid.SetColumn(img, 0);
+
+            var graficoHistograma = CriarGraficoHistograma(histogramaNormalizado);
+            Grid.SetColumn(graficoHistograma, 1);
+
+            gridConteudo.Children.Add(img);
+            gridConteudo.Children.Add(graficoHistograma);
+
+            gridPrincipal.Children.Add(texto);
+            gridPrincipal.Children.Add(gridConteudo);
+
+            guia.Content = gridPrincipal;
+        }
+
+        private FrameworkElement CriarGraficoHistograma(double[] histogramaNormalizado)
+        {
+            // Gráfico simplificado: 30 bins por canal (Y = luminância, Cb = azul, Cr = vermelho)
+            const int binsPerChannel = 30;
+            const int valuesPerChannel = 256;
+
+            Grid gridGrafico = new Grid { Margin = new Thickness(5) };
+            gridGrafico.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
+            gridGrafico.RowDefinitions.Add(new RowDefinition { Height = new GridLength(1, GridUnitType.Star) });
+            gridGrafico.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
+
+            TextBlock tituloGrafico = new TextBlock
+            {
+                Text = "Histograma LBP (Luminância, Azul, Vermelho)",
+                FontSize = 20,
+                FontWeight = FontWeights.Bold,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                Margin = new Thickness(0, 0, 0, 5)
+            };
+            Grid.SetRow(tituloGrafico, 0);
+
+            Grid gridComEixoY = new Grid();
+            gridComEixoY.ColumnDefinitions.Add(new ColumnDefinition { Width = GridLength.Auto });
+            gridComEixoY.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
+            Grid.SetRow(gridComEixoY, 1);
+
+            TextBlock labelEixoY = new TextBlock
+            {
+                Text = "Frequência relativa",
+                FontSize = 14,
+                FontWeight = FontWeights.Bold,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                VerticalAlignment = VerticalAlignment.Center,
+                LayoutTransform = new RotateTransform(-90),
+                Margin = new Thickness(0, 0, 8, 0)
+            };
+            Grid.SetColumn(labelEixoY, 0);
+
+            Viewbox viewbox = new Viewbox { Stretch = Stretch.Uniform };
+
+            // Extrai canais (assume que histogramaNormalizado tem 768 elementos: Y, Cb, Cr)
+            double[] yValues = new double[valuesPerChannel];
+            double[] cbValues = new double[valuesPerChannel];
+            double[] crValues = new double[valuesPerChannel];
+            if (histogramaNormalizado != null && histogramaNormalizado.Length >= valuesPerChannel * 3)
+            {
+                Array.Copy(histogramaNormalizado, 0, yValues, 0, valuesPerChannel);
+                Array.Copy(histogramaNormalizado, valuesPerChannel, cbValues, 0, valuesPerChannel);
+                Array.Copy(histogramaNormalizado, valuesPerChannel * 2, crValues, 0, valuesPerChannel);
+            }
+
+            // Agrega em bins
+            double[] yBins = new double[binsPerChannel];
+            double[] cbBins = new double[binsPerChannel];
+            double[] crBins = new double[binsPerChannel];
+            for (int b = 0; b < binsPerChannel; b++)
+            {
+                int start = (int)Math.Floor(b * (valuesPerChannel / (double)binsPerChannel));
+                int end = (int)Math.Floor((b + 1) * (valuesPerChannel / (double)binsPerChannel)) - 1;
+                if (b == binsPerChannel - 1) end = valuesPerChannel - 1;
+
+                double sumY = 0, sumCb = 0, sumCr = 0;
+                for (int i = start; i <= end; i++)
+                {
+                    sumY += yValues[i];
+                    sumCb += cbValues[i];
+                    sumCr += crValues[i];
+                }
+
+                yBins[b] = sumY;
+                cbBins[b] = sumCb;
+                crBins[b] = sumCr;
+            }
+
+            // Concatena bins para desenhar em sequência (Y, Cb, Cr)
+            int totalBins = binsPerChannel * 3;
+            double[] allBins = new double[totalBins];
+            for (int i = 0; i < binsPerChannel; i++)
+            {
+                allBins[i] = yBins[i];
+                allBins[i + binsPerChannel] = cbBins[i];
+                allBins[i + 2 * binsPerChannel] = crBins[i];
+            }
+
+            double alturaBase = 300;
+            double barWidth = 10;
+            double gap = 2;
+            double channelGap = 12;
+            double larguraBase = totalBins * barWidth + (totalBins - 1) * gap + 2 * channelGap;
+
+            Canvas canvas = new Canvas
+            {
+                Width = larguraBase,
+                Height = alturaBase,
+                Background = Brushes.White
+            };
+
+            double maxValor = 0;
+            foreach (var v in allBins) if (v > maxValor) maxValor = v;
+            if (maxValor <= 0) maxValor = 1;
+
+            // Pinta barras em grupos de 3 por bin: [Cb (azul)] [Y (luminância)] [Cr (vermelho)]
+            double gapBetweenBars = gap; // espaço entre barras dentro do grupo
+            double gapBetweenGroups = channelGap; // espaço entre grupos
+            double groupWidth = 3 * barWidth + 2 * gapBetweenBars;
+            double larguraTotal = binsPerChannel * groupWidth + (binsPerChannel - 1) * gapBetweenGroups;
+            // centraliza canvas se largura calculada for maior
+            if (larguraTotal > canvas.Width) canvas.Width = larguraTotal;
+
+            for (int b = 0; b < binsPerChannel; b++)
+            {
+                double baseLeft = b * (groupWidth + gapBetweenGroups);
+
+                // Y (luminância) à esquerda
+                double alturaY = (yBins[b] / maxValor) * alturaBase;
+                Rectangle barraY = new Rectangle { Width = barWidth, Height = alturaY, Fill = Brushes.Black };
+                Canvas.SetLeft(barraY, baseLeft);
+                Canvas.SetTop(barraY, alturaBase - alturaY);
+                canvas.Children.Add(barraY);
+
+                // Cb (azul) no centro
+                double alturaCb = (cbBins[b] / maxValor) * alturaBase;
+                Rectangle barraCb = new Rectangle { Width = barWidth, Height = alturaCb, Fill = Brushes.DodgerBlue };
+                Canvas.SetLeft(barraCb, baseLeft + (barWidth + gapBetweenBars));
+                Canvas.SetTop(barraCb, alturaBase - alturaCb);
+                canvas.Children.Add(barraCb);
+
+                // Cr (vermelho) à direita
+                double alturaCr = (crBins[b] / maxValor) * alturaBase;
+                Rectangle barraCr = new Rectangle { Width = barWidth, Height = alturaCr, Fill = Brushes.IndianRed };
+                Canvas.SetLeft(barraCr, baseLeft + 2 * (barWidth + gapBetweenBars));
+                Canvas.SetTop(barraCr, alturaBase - alturaCr);
+                canvas.Children.Add(barraCr);
+            }
+
+            // Eixos simples
+            Line eixoX = new Line { X1 = 0, Y1 = alturaBase, X2 = larguraBase, Y2 = alturaBase, Stroke = Brushes.Black, StrokeThickness = 1 };
+            Line eixoY = new Line { X1 = 0, Y1 = 0, X2 = 0, Y2 = alturaBase, Stroke = Brushes.Black, StrokeThickness = 1 };
+            canvas.Children.Add(eixoX);
+            canvas.Children.Add(eixoY);
+
+            // Legenda
+            double legendaTop = alturaBase + 8;
+            Rectangle legendaY = new Rectangle { Width = 16, Height = 12, Fill = Brushes.Gray };
+            Canvas.SetLeft(legendaY, 0); Canvas.SetTop(legendaY, legendaTop);
+            TextBlock legendaYText = new TextBlock { Text = "Luminância (Y)", FontSize = 12 };
+            Canvas.SetLeft(legendaYText, 20); Canvas.SetTop(legendaYText, legendaTop - 2);
+
+            Rectangle legendaCb = new Rectangle { Width = 16, Height = 12, Fill = Brushes.DodgerBlue };
+            Canvas.SetLeft(legendaCb, 140); Canvas.SetTop(legendaCb, legendaTop);
+            TextBlock legendaCbText = new TextBlock { Text = "Azul (Cb)", FontSize = 12 };
+            Canvas.SetLeft(legendaCbText, 160); Canvas.SetTop(legendaCbText, legendaTop - 2);
+
+            Rectangle legendaCr = new Rectangle { Width = 16, Height = 12, Fill = Brushes.IndianRed };
+            Canvas.SetLeft(legendaCr, 260); Canvas.SetTop(legendaCr, legendaTop);
+            TextBlock legendaCrText = new TextBlock { Text = "Vermelho (Cr)", FontSize = 12 };
+            Canvas.SetLeft(legendaCrText, 280); Canvas.SetTop(legendaCrText, legendaTop - 2);
+
+            canvas.Children.Add(legendaY);
+            canvas.Children.Add(legendaYText);
+            canvas.Children.Add(legendaCb);
+            canvas.Children.Add(legendaCbText);
+            canvas.Children.Add(legendaCr);
+            canvas.Children.Add(legendaCrText);
+
+            viewbox.Child = canvas;
+            Grid.SetColumn(viewbox, 1);
+
+            gridComEixoY.Children.Add(labelEixoY);
+            gridComEixoY.Children.Add(viewbox);
+
+            TextBlock labelEixoX = new TextBlock
+            {
+                Text = "Bins agrupados (30 por canal)",
+                FontSize = 14,
+                FontWeight = FontWeights.Bold,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                Margin = new Thickness(0, 5, 0, 0)
+            };
+            Grid.SetRow(labelEixoX, 2);
+
+            gridGrafico.Children.Add(tituloGrafico);
+            gridGrafico.Children.Add(gridComEixoY);
+            gridGrafico.Children.Add(labelEixoX);
+
+            return gridGrafico;
+        }
+    }
+}

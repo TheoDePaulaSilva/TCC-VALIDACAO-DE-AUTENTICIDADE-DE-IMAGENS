@@ -1,0 +1,64 @@
+﻿using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;    
+    
+
+namespace TCC2026LBP
+{
+    /// <summary>
+    /// Lógica interna para ArquivosWindow.xaml
+    /// </summary>
+    public partial class ArquivosWindow : Window
+    {
+        public ArquivosWindow()
+        {
+            InitializeComponent();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            if (sender is Button btn)
+            {
+                switch (btn.Name)
+                {
+                    case "ButtonAbrir":
+                        AbrirImagem();
+                        break;
+                    case "ButtonNovaGuia":
+                        
+                    case "ButtonSair":
+                        Application.Current.Shutdown();
+                        break;
+                    default:
+                        break;
+                }
+
+            }
+        }
+
+        public void AbrirImagem()
+        {
+            OpenFileDialog dialog = new OpenFileDialog();
+
+            dialog.Filter = "Imagens|*.jpg;*.jpeg;*.png;*.bmp";
+            dialog.Title = "Selecione uma imagem";
+
+            if (dialog.ShowDialog() == true)
+            {
+             
+
+            }
+        }
+        
+    }
+
+}
